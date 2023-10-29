@@ -1,0 +1,8 @@
+.main_user{
+    background: #001232;
+}
+.owl-stage{
+    transform: translate3d(-2047px, 0px, 0px); 
+    transition: all 0.25s ease 0s; 
+    width: 3510px;
+}

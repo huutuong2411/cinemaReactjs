@@ -1,0 +1,8 @@
+
+.rowSeat .seat{
+    position: relative;
+    right: 3%;
+    color: #fff;
+    font-size: 18px;
+    z-index: 100;
+}
